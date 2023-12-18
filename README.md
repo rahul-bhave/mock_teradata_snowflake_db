@@ -1,5 +1,5 @@
 # Mock Terrdata to Snowflake DB Table comparision
-This is built to show usage on how table comparision can be mocked using python.
+This is built to show usage on how table comparision can be mocked using python. (Snowflake and Teradata tables are mocked here)
 
 To us this:
 1. Clone the repo.
